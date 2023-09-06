@@ -4,7 +4,7 @@ Welcome to the Dashboard MERN (MongoDB, Express.js, React, Node.js) application!
 
 ## Demo
 
-You can access the live demo of the Dashboard MERN App [here](https://admin-frontend-davechbga.onrender.com/dashboard).
+You can access the live demo of the Dashboard MERN App [here](https://admin-frontend-davechbga.onrender.com/).
 
 ## Technologies
 
